@@ -1,8 +1,0 @@
-Table,Rows,Columns,DuplicateRows,ColumnsWithNulls,TotalNullCells
-factOrder,251431,19,0,1,149589
-dimProduct,44,5,0,0,0
-dimLocation,48,6,0,0,0
-dimPromo,9997,6,0,0,0
-dimPayment,3,3,0,0,0
-dimShipping,3,3,0,0,0
-dimCustomer,12246,4,0,0,0
